@@ -1,6 +1,7 @@
 # Website-For-Hostel-Using_HTML-CSS-JavaScript
 
 # Hostel Information System
+ - [Hosted Website](https://mahesh-langote.github.io/Website-For-Hostel-Using_HTML-CSS-JavaScript/)
 
 This project is a web-based Hostel Information System that provides details about the CIMDR Hostel. It includes information about the hostel, its facilities, admission process, management, and contact details. The system is designed to help students and visitors get relevant information about the hostel easily.
 
