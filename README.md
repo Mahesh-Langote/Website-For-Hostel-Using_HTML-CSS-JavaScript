@@ -35,8 +35,7 @@ The Hostel Information System is a website developed using HTML, CSS, and JavaSc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/hostel-information-system.git
-
+   git clone https://github.com/Mahesh-Langote/Website-For-Hostel-Using_HTML-CSS-JavaScript.git
 # Explore Hostel Information System
 
 ## Project Structure
